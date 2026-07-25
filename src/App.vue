@@ -6,7 +6,7 @@ import SectionPralines from './components/SectionPralines.vue'
 import SectionStory from './components/SectionStory.vue'
 import SectionWhy from './components/SectionWhy.vue'
 import SectionOccasions from './components/SectionOccasions.vue'
-import SectionTestimonials from './components/SectionTestimonials.vue'
+// import SectionTestimonials from './components/SectionTestimonials.vue'
 import SectionContact from './components/SectionContact.vue'
 import TheFooter from './components/TheFooter.vue'
 

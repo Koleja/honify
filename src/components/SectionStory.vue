@@ -5,8 +5,8 @@
       <div class="text" data-reveal>
         <div class="label">02 — Our Story</div>
         <p class="pull-quote">Honify began in a beehive.</p>
-        <p>Michał spent years as a beekeeper, developing a deep respect for honey — its complexity, its purity, its quiet power. Fascinated by its many forms, he started experimenting: creamed, liquid, infused. One challenge led to another, and eventually he asked himself — could honey alone become something you'd find in a fine chocolate box?</p>
-        <p>Every praline is built around that original conviction: honey deserves to be celebrated, not buried. No artificial sweeteners, no shortcuts — just raw, natural honey at the heart of each piece, protected by 100% dark chocolate and paired with the simplest, finest extra ingredients.</p>
+        <p>Michał spent years as a beekeeper, developing a deep respect for honey — its complexity, its purity, its quiet power. Fascinated by its many forms, he started experimenting: liquid, creamed, infused. One challenge led to another, and eventually he asked himself — could honey alone become something you'd find in a fine chocolate box?</p>
+        <p>Every praline is built around that original conviction: honey deserves to be celebrated. No artificial sweeteners, no shortcuts — just raw, natural honey at the heart of each piece, protected by 100% dark chocolate and paired with the finest ingredients.</p>
         <p class="closing">In a world full of overly sweet confections, Honify is something different.</p>
       </div>
     </div>

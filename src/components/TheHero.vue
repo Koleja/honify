@@ -7,7 +7,7 @@
       <img src="/assets/logo-wordmark.svg" alt="Honify Pralines" data-reveal class="wordmark" />
       <div class="divider" data-reveal></div>
       <h1 data-reveal>Pralines crafted<br />to perfection</h1>
-      <p data-reveal>Every piece is made by hand, with the finest ingredients and an obsession for detail. This is chocolate as it should be.</p>
+      <p data-reveal>Every piece is made by hand, with the finest ingredients and an obsession for detail.</p>
       <a href="#pralines" data-reveal class="btn-primary">Explore our pralines</a>
     </div>
     <div class="scroll-hint">
@@ -69,7 +69,7 @@ p {
   font-size: clamp(16px, 1.4vw, 19px);
   line-height: 1.7;
   color: #B7AC97;
-  max-width: 560px;
+  max-width: 6000px;
   margin: 0 0 40px;
   font-weight: 300;
 }

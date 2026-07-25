@@ -4,7 +4,7 @@
       <div class="intro" data-reveal>
         <div class="label">01 — The Collection</div>
         <h2>Our pralines</h2>
-        <p>Every Honify praline begins the same way — 100% dark chocolate, pure honey, and nothing to hide behind. From there, each piece tells its own story.</p>
+        <p>Every Honify praline begins the same way — 100% dark chocolate and pure honey. From there, each piece tells its own story.</p>
       </div>
 
       <div class="grid">
@@ -26,10 +26,8 @@
         <article data-reveal class="card">
           <div class="card-img" style="background-image: url('/assets/creamed.jpg')"></div>
           <div class="card-body">
-            <div class="card-label-row">
               <div class="card-label">Line 02 · Creamed honey</div>
               <!-- <span class="coming-soon">Coming soon</span> -->
-            </div>
             <h3>Creamed</h3>
             <p class="tagline">Dark chocolate shell with smooth creamed honey at the heart.</p>
             <p class="desc">Richer and more rounded, the Creamed line brings a softer sweetness to the fore. Paired with nuts or dried fruits, each piece is indulgent without ever being excessive.</p>
