@@ -20,20 +20,20 @@
 
       <div class="cta-wrap" data-reveal>
         <div class="cta-buttons">
-          <a href="mailto:your@email.com" class="btn-primary">
+          <a href="mailto:contact@honify.au" class="btn-primary">
             <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
               <rect x="3" y="5" width="18" height="14" rx="2"/>
               <path d="m3 7 9 6 9-6"/>
             </svg>
-            your@email.com
+            contact@honify.au
           </a>
-          <a href="https://instagram.com/honify" target="_blank" rel="noopener" class="btn-outline">
+          <a href="https://www.instagram.com/honify_pralines/" target="_blank" rel="noopener" class="btn-outline">
             <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
               <rect x="3" y="3" width="18" height="18" rx="5"/>
               <circle cx="12" cy="12" r="4"/>
               <circle cx="17.5" cy="6.5" r="0.6" fill="currentColor"/>
             </svg>
-            @honify
+            @honify_pralines
           </a>
         </div>
         <p class="response-note">We typically respond within 24 hours.</p>

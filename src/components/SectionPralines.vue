@@ -9,12 +9,12 @@
 
       <div class="grid">
         <article data-reveal class="card">
-          <div class="card-img" style="background-image: url('/assets/hero-praline.jpg')"></div>
+          <div class="card-img" style="background-image: url('/assets/signature-praline.jpg')"></div>
           <div class="card-body">
             <div class="card-label">Line 01 · Liquid honey</div>
             <h3>Signature</h3>
             <p class="tagline">Dark chocolate shell with liquid honey at the heart.</p>
-            <p class="desc">Each variant pairs the raw intensity of liquid honey with a single, carefully chosen ingredient. Current flavours include barberry, peanut, and more — a rotating cast of bold, clean combinations.</p>
+            <p class="desc">Each variant pairs the raw intensity of liquid honey with a single, carefully chosen ingredient. Current flavours include barberry, peanut, and more — a rotating cast of bold, pure combinations.</p>
             <div class="tags">
               <span class="tag">Barberry</span>
               <span class="tag">Peanut</span>
@@ -28,7 +28,7 @@
           <div class="card-body">
             <div class="card-label-row">
               <div class="card-label">Line 02 · Creamed honey</div>
-              <span class="coming-soon">Coming soon</span>
+              <!-- <span class="coming-soon">Coming soon</span> -->
             </div>
             <h3>Creamed</h3>
             <p class="tagline">Dark chocolate shell with smooth creamed honey at the heart.</p>
@@ -36,7 +36,7 @@
             <div class="tags">
               <span class="tag">Hazelnut</span>
               <span class="tag">Almond</span>
-              <span class="tag">Dried fruit</span>
+              <span class="tag tag--dashed">+ more, rotating</span>
             </div>
           </div>
         </article>

@@ -31,6 +31,7 @@ section {
   background-image: url('/assets/honey-pour.jpg');
   background-size: cover;
   background-position: center;
+  background-position-y: 65%;
 }
 .text {
   padding: clamp(56px, 7vw, 96px) clamp(28px, 5vw, 72px);

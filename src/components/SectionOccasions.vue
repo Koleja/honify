@@ -66,7 +66,7 @@ section { position: relative; }
   position: absolute; inset: 0;
   background-image: url('/assets/perfect-for.jpg');
   background-size: cover;
-  background-position: center;
+  background-position-y: 85%;
 }
 .banner-overlay {
   position: absolute; inset: 0;

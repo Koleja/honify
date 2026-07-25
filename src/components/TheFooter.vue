@@ -8,7 +8,7 @@
           <div class="sub">Pralines</div>
         </div>
       </div>
-      <p class="tagline">Honey, amplified.</p>
+      <p class="tagline">Amplified by honey.</p>
       <div class="copy">© 2026 Honify Pralines. Handmade in small batches.</div>
     </div>
   </footer>

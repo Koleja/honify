@@ -48,7 +48,7 @@ onUnmounted(() => {
   <SectionStory />
   <SectionWhy />
   <SectionOccasions />
-  <SectionTestimonials />
+  <!-- <SectionTestimonials /> -->
   <SectionContact />
   <TheFooter />
 </template>
