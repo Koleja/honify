@@ -15,7 +15,7 @@ describe('TheFooter', () => {
 
   it('renders the brand tagline', () => {
     const wrapper = mount(TheFooter)
-    expect(wrapper.find('.tagline').text()).toBe('Honey, amplified.')
+    expect(wrapper.find('.tagline').text()).toBe('Amplified by honey.')
   })
 
   it('renders the copyright notice', () => {
