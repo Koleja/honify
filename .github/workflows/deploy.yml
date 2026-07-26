@@ -27,7 +27,7 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-cache: 'npm' # Automatyczne cache'owanie paczek dla przyspieszenia
+          cache: 'npm' # Automatyczne cache'owanie paczek dla przyspieszenia
 
       - name: Install dependencies
         run: npm ci
