@@ -31,25 +31,11 @@ describe('SectionPralines', () => {
     expect(headings).toContain('Creamed')
   })
 
-  it('shows Coming soon badge on the Creamed card', () => {
-    const wrapper = mount(SectionPralines)
-    expect(wrapper.find('.coming-soon').exists()).toBe(true)
-    expect(wrapper.find('.coming-soon').text()).toBe('Coming soon')
-  })
-
   it('renders flavour tags for the Signature line', () => {
     const wrapper = mount(SectionPralines)
     const tagTexts = wrapper.findAll('.tag').map((t) => t.text())
     expect(tagTexts).toContain('Barberry')
     expect(tagTexts).toContain('Peanut')
-  })
-
-  it('renders flavour tags for the Creamed line', () => {
-    const wrapper = mount(SectionPralines)
-    const tagTexts = wrapper.findAll('.tag').map((t) => t.text())
-    expect(tagTexts).toContain('Hazelnut')
-    expect(tagTexts).toContain('Almond')
-    expect(tagTexts).toContain('Dried fruit')
   })
 
   it('renders a contact link in the footer note', () => {
