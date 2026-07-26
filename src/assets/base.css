@@ -1,0 +1,17 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; }
+html { scroll-behavior: smooth; }
+body {
+  min-height: 100vh;
+  background: #17140F;
+  color: #B7AC97;
+  font-family: 'Jost', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+:root {
+  --accent: #FBAC00;
+  --serif: 'Palatino Linotype', Palatino, 'Book Antiqua', 'URW Palladio L', Georgia, serif;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: #E39C00; }
+::selection { background: #FBAC00; color: #17140F; }
